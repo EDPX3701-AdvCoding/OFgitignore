@@ -10,7 +10,6 @@
 # general
 #########
 
-[Bb]in/
 [Bb]uild/
 [Oo]bj/
 *.o
