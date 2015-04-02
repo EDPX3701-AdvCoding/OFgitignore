@@ -10,6 +10,7 @@
 # general
 #########
 
+[Bb]in/
 [Bb]uild/
 [Oo]bj/
 *.o
@@ -47,6 +48,8 @@ xcuserdata
 *.pdb
 *.ilk
 *.aps
+*.filters
+*.user
 ipch/
 
 # Eclipse
