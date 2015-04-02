@@ -47,6 +47,8 @@ xcuserdata
 *.pdb
 *.ilk
 *.aps
+*.filters
+*.user
 ipch/
 
 # Eclipse
